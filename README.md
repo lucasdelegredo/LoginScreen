@@ -9,6 +9,7 @@ Utilizei de conceitos do HTML para estruturar a página com o formulário de log
 Diagramando as partes da tela em diferentes DIV que possuem Classes específicas no CSS foi possível criar esse design para formulário de LOGIN
 
 Utilizei um link externo do FontAwesome para conseguir os icones de USER e PASSWORD que estão dentro dos campos de preenchimento:
+
 ![image](https://user-images.githubusercontent.com/74476423/131421559-88ffad82-d1af-43b2-a073-0f3f2dcf3de6.png)
 
 Algumas propriedades importantes do CSS foram utilizadas como o POSITION: ABSOLUTE, FLOAT, OVERFLOW: HIDDEN, e algumas configurações de MARGIN para conseguir os efeitos de design obtidos e centralizações necessárias para a tela de login.
